@@ -12,22 +12,6 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 # Hello Microverse <a name="about-project"></a>
@@ -46,29 +30,9 @@
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li>N/A</li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li>N/A</li>
-  </ul>
-</details>
-
 ### Key Features <a name="key-features"></a>
 
 - **Display colorfull text**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Demo link is coming soon](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,18 +71,6 @@ npm install
 To run the project, execute the following command:
 
 Double-click on the index file (index.html)
-
-### Run tests
-
-To run tests, run the following command:
-
-N/A
-
-### Deployment
-
-You can deploy this project using:
-
-Deploy this project on any websever
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
